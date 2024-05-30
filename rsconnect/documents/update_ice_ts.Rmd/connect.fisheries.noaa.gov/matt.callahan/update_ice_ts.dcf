@@ -1,0 +1,12 @@
+name: update_ice_ts
+title: update_ice_ts
+username: matt.callahan
+account: matt.callahan
+server: connect.fisheries.noaa.gov
+hostUrl: https://connect.fisheries.noaa.gov/__api__
+appId: 273
+bundleId: 1272
+url: https://connect.fisheries.noaa.gov/content/bd8fe634-ee6c-44cc-b5b9-9c9addffd706/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
